@@ -26,7 +26,8 @@ def palindrom_recursiv(string_current):
     return is_palindrome
 
 """
-### control digit: ??
+CONTROL DIGIT RECURSIV
+
 numbers_list = [12345, 52314, 12453, 41352, 85432845921, 9, 10, 0, 1]
 
 ----------------------------
